@@ -22,7 +22,7 @@ public class S6_001_CreateAc {
 		driver.findElement(By.id("Login")).click();
 		// username: gokul.sekar@testleaf.com
 		// password: Leaf$321
-
+		//TestGit
 		// Click on toggle menu button from the left corner
 		driver.findElement(By.xpath("//button[@title='App Launcher']")).click();
 
