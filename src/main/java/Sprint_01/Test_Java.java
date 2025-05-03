@@ -13,6 +13,8 @@ public class Test_Java {
 		System.out.println("Orange is a fruit");
 
 		System.out.println("Tomatoes are a fruit and veg");
+		
+		System.out.println("To check Jenkins job - auto trigger");
 
 	}
 }
