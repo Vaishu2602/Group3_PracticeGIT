@@ -54,7 +54,7 @@ public class S10_VerifySorting {
 		// tbody//tr//a[@data-refid='recordId']
 		// th//a[@data-refid='recordId']
 //		Thread.sleep(8000);
-//
+//		Automation Task
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		//js.executeScript("window.scrollTo(0, document.body.scrollHeight);");
 	
