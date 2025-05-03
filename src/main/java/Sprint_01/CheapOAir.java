@@ -56,6 +56,7 @@ public class CheapOAir {
 
 		driver.findElement(By.xpath("//span[contains(@title,'" + least + "')]/following::span[text()='Select']"))
 				.click();
+		//Task is completed
 
 	}
 	
