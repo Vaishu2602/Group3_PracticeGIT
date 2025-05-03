@@ -13,6 +13,6 @@ public class Test_Java {
 		System.out.println("Orange is a fruit");
 
 		
-		System.out.println("Tomatoes are a fruit");
+		System.out.println("Tomatoes are a fruit and veg");
 	}
 }
