@@ -7,5 +7,6 @@ public class Test_Java {
 		System.out.println("Apple is a fruits");
 		
 		//Title as Fruits
+		//Title as vegetables
 	}
 }
