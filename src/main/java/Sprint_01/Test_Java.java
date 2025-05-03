@@ -4,6 +4,7 @@ public class Test_Java {
 
 	public void test()
 	{
-		System.out.println("Apple is a fruits");
+		System.out.println("Apple is a fruit");
+		System.out.println("Orange is a fruit");
 	}
 }
